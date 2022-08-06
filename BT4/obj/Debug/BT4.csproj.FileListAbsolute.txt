@@ -1,0 +1,8 @@
+E:\UEH\Co so lap trinh C#\Code\BT4\obj\Debug\BT4.csproj.AssemblyReference.cache
+E:\UEH\Co so lap trinh C#\Code\BT4\obj\Debug\BT4.csproj.SuggestedBindingRedirects.cache
+E:\UEH\Co so lap trinh C#\Code\BT4\obj\Debug\BT4.csproj.CoreCompileInputs.cache
+E:\UEH\Co so lap trinh C#\Code\BT4\bin\Debug\BT4.exe.config
+E:\UEH\Co so lap trinh C#\Code\BT4\bin\Debug\BT4.exe
+E:\UEH\Co so lap trinh C#\Code\BT4\bin\Debug\BT4.pdb
+E:\UEH\Co so lap trinh C#\Code\BT4\obj\Debug\BT4.exe
+E:\UEH\Co so lap trinh C#\Code\BT4\obj\Debug\BT4.pdb

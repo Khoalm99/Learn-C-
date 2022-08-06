@@ -1,0 +1,8 @@
+E:\UEH\Co so lap trinh C#\Code\BTTL\bin\Debug\BTTL.exe.config
+E:\UEH\Co so lap trinh C#\Code\BTTL\bin\Debug\BTTL.exe
+E:\UEH\Co so lap trinh C#\Code\BTTL\bin\Debug\BTTL.pdb
+E:\UEH\Co so lap trinh C#\Code\BTTL\obj\Debug\BTTL.csproj.AssemblyReference.cache
+E:\UEH\Co so lap trinh C#\Code\BTTL\obj\Debug\BTTL.csproj.SuggestedBindingRedirects.cache
+E:\UEH\Co so lap trinh C#\Code\BTTL\obj\Debug\BTTL.csproj.CoreCompileInputs.cache
+E:\UEH\Co so lap trinh C#\Code\BTTL\obj\Debug\BTTL.exe
+E:\UEH\Co so lap trinh C#\Code\BTTL\obj\Debug\BTTL.pdb

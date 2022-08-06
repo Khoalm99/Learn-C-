@@ -1,0 +1,8 @@
+E:\UEH\Co so lap trinh C#\Code\reNhanh(lop)\bin\Debug\reNhanh(lop).exe.config
+E:\UEH\Co so lap trinh C#\Code\reNhanh(lop)\bin\Debug\reNhanh(lop).exe
+E:\UEH\Co so lap trinh C#\Code\reNhanh(lop)\bin\Debug\reNhanh(lop).pdb
+E:\UEH\Co so lap trinh C#\Code\reNhanh(lop)\obj\Debug\reNhanh(lop).csproj.AssemblyReference.cache
+E:\UEH\Co so lap trinh C#\Code\reNhanh(lop)\obj\Debug\reNhanh(lop).csproj.SuggestedBindingRedirects.cache
+E:\UEH\Co so lap trinh C#\Code\reNhanh(lop)\obj\Debug\reNhanh(lop).csproj.CoreCompileInputs.cache
+E:\UEH\Co so lap trinh C#\Code\reNhanh(lop)\obj\Debug\reNhanh(lop).exe
+E:\UEH\Co so lap trinh C#\Code\reNhanh(lop)\obj\Debug\reNhanh(lop).pdb

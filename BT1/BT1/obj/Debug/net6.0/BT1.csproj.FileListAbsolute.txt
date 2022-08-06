@@ -1,0 +1,15 @@
+E:\UEH\Co so lap trinh C#\Code\BT1\BT1\BT1\obj\Debug\net6.0\BT1.csproj.AssemblyReference.cache
+E:\UEH\Co so lap trinh C#\Code\BT1\BT1\BT1\obj\Debug\net6.0\BT1.GeneratedMSBuildEditorConfig.editorconfig
+E:\UEH\Co so lap trinh C#\Code\BT1\BT1\BT1\obj\Debug\net6.0\BT1.AssemblyInfoInputs.cache
+E:\UEH\Co so lap trinh C#\Code\BT1\BT1\BT1\obj\Debug\net6.0\BT1.AssemblyInfo.cs
+E:\UEH\Co so lap trinh C#\Code\BT1\BT1\BT1\obj\Debug\net6.0\BT1.csproj.CoreCompileInputs.cache
+E:\UEH\Co so lap trinh C#\Code\BT1\BT1\BT1\bin\Debug\net6.0\BT1.exe
+E:\UEH\Co so lap trinh C#\Code\BT1\BT1\BT1\bin\Debug\net6.0\BT1.deps.json
+E:\UEH\Co so lap trinh C#\Code\BT1\BT1\BT1\bin\Debug\net6.0\BT1.runtimeconfig.json
+E:\UEH\Co so lap trinh C#\Code\BT1\BT1\BT1\bin\Debug\net6.0\BT1.dll
+E:\UEH\Co so lap trinh C#\Code\BT1\BT1\BT1\bin\Debug\net6.0\BT1.pdb
+E:\UEH\Co so lap trinh C#\Code\BT1\BT1\BT1\obj\Debug\net6.0\BT1.dll
+E:\UEH\Co so lap trinh C#\Code\BT1\BT1\BT1\obj\Debug\net6.0\refint\BT1.dll
+E:\UEH\Co so lap trinh C#\Code\BT1\BT1\BT1\obj\Debug\net6.0\BT1.pdb
+E:\UEH\Co so lap trinh C#\Code\BT1\BT1\BT1\obj\Debug\net6.0\BT1.genruntimeconfig.cache
+E:\UEH\Co so lap trinh C#\Code\BT1\BT1\BT1\obj\Debug\net6.0\ref\BT1.dll
