@@ -1,0 +1,8 @@
+E:\UEH\Co so lap trinh C#\Code\VD vong lap FOR\bin\Debug\VD vong lap FOR.exe.config
+E:\UEH\Co so lap trinh C#\Code\VD vong lap FOR\bin\Debug\VD vong lap FOR.exe
+E:\UEH\Co so lap trinh C#\Code\VD vong lap FOR\bin\Debug\VD vong lap FOR.pdb
+E:\UEH\Co so lap trinh C#\Code\VD vong lap FOR\obj\Debug\VD vong lap FOR.csproj.AssemblyReference.cache
+E:\UEH\Co so lap trinh C#\Code\VD vong lap FOR\obj\Debug\VD vong lap FOR.csproj.SuggestedBindingRedirects.cache
+E:\UEH\Co so lap trinh C#\Code\VD vong lap FOR\obj\Debug\VD vong lap FOR.csproj.CoreCompileInputs.cache
+E:\UEH\Co so lap trinh C#\Code\VD vong lap FOR\obj\Debug\VD vong lap FOR.exe
+E:\UEH\Co so lap trinh C#\Code\VD vong lap FOR\obj\Debug\VD vong lap FOR.pdb
