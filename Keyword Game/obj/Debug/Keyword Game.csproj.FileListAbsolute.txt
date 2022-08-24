@@ -1,0 +1,8 @@
+E:\UEH\Co so lap trinh C#\CodeC#\Keyword Game\obj\Debug\Keyword Game.csproj.AssemblyReference.cache
+E:\UEH\Co so lap trinh C#\CodeC#\Keyword Game\obj\Debug\Keyword Game.csproj.SuggestedBindingRedirects.cache
+E:\UEH\Co so lap trinh C#\CodeC#\Keyword Game\obj\Debug\Keyword Game.csproj.CoreCompileInputs.cache
+E:\UEH\Co so lap trinh C#\CodeC#\Keyword Game\bin\Debug\Keyword Game.exe.config
+E:\UEH\Co so lap trinh C#\CodeC#\Keyword Game\bin\Debug\Keyword Game.exe
+E:\UEH\Co so lap trinh C#\CodeC#\Keyword Game\bin\Debug\Keyword Game.pdb
+E:\UEH\Co so lap trinh C#\CodeC#\Keyword Game\obj\Debug\Keyword Game.exe
+E:\UEH\Co so lap trinh C#\CodeC#\Keyword Game\obj\Debug\Keyword Game.pdb
