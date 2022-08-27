@@ -12,49 +12,125 @@ namespace Keyword_Game
         static void Main(string[] args)
         {
             Console.OutputEncoding = Encoding.UTF8;
-            test();
-        }
+            game();
 
-        static void test()
-        {
-            Console.Write("Chọn phím bất kỳ để bắt đầu: ");
-
-            ConsoleKeyInfo c = new ConsoleKeyInfo();
-
-            begin:
-
-            do
+            void test()
             {
-                Random rnd = new Random();
-                int keyNumber = rnd.Next(65, 91);
-                char key = Convert.ToChar(keyNumber);
-                for (int i = 0; i <= Console.WindowHeight; i++)
+                
+            }
+
+            void game()
+            {
+                begin:
+                //Bắt đầu game
+                Console.WriteLine("KEYWORD GAME ");
+                Console.WriteLine("(*Tắt Capslock trước khi vào game*)");
+                Console.WriteLine("Ấn phím bất kỳ để tiếp tục...");
+                Console.ReadKey();
+                Console.Clear();
+                
+                //Chọn độ khó
+                Console.WriteLine("Chọn độ khó");
+                Console.WriteLine("Dễ -- Nhập số 1");
+                Console.WriteLine("Trung bình -- Nhập số 2");
+                Console.WriteLine("Khó -- Nhập số 3");
+                int level = int.Parse(Console.ReadLine());
+                
+                
+                Console.Clear();
+                
+                if (level==1)
                 {
-                    //Tạo random chữ cái
+                    Console.WriteLine("Bạn chọn cấp độ DỄ");
                     
-                    Console.SetCursorPosition(Console.WindowWidth / 2, i);
-
-                    Console.Write(key);
-                    if (true)
+                }
+                else
+                {
+                    if (level == 2)
                     {
-
+                        Console.WriteLine("Bạn chọn cấp độ TRUNG BÌNH");
                     }
-                    Console.Clear();
-
-                    // Thiet lap thoi gian xuat hien
-                    System.Threading.Thread.Sleep(200);
-                    if (c.Key == ConsoleKey.Q)
+                    else
                     {
-                        goto begin;
+                        if (level == 3)
+                        {
+                            Console.WriteLine("Bạn chọn cấp độ KHÓ");
+                        }
+                        else
+                        {
+                            Console.WriteLine("CHỌN SAI, CHỌN LẠI");
+                            goto begin;
+                        }
+                    }
+                }
+
+                
+                Console.WriteLine("Chọn phím bất kỳ để bắt đầu......");
+                
+                Console.ReadKey();
+                Console.Clear();
+
+                //Tạo score 
+                int score = 0;
+                int speed = 250;
+
+            NewKeyWord:
+
+                //Tạo random chữ cái
+                Random rnd = new Random();
+                int OutputNumber = rnd.Next(65, 91);
+                char OutPut = Convert.ToChar(OutputNumber);
+
+                //Cho chữ rơi 
+
+                for (int i = 0; i < Console.WindowHeight; i++)
+                {
+                    // Cho chữ ở vị trí ban đầu
+                    Console.SetCursorPosition(Console.WindowWidth / 2, i);
+                    
+                    // In chữ random
+                    Console.Write(OutPut);
+
+                    // Thiet lap thoi gian rơi
+                    System.Threading.Thread.Sleep(speed);
+
+                    //Cho nhập kí tự + Kiểm tra keyInput
+                    if (Console.KeyAvailable)
+                    {
+
+                        ConsoleKeyInfo keyInput = Console.ReadKey();
+
+                        if (keyInput.Key != ConsoleKey.Escape)
+                        {
+                            if ((int)keyInput.KeyChar == (OutputNumber+32))
+                            {
+                                score++;
+                                Console.Clear();
+                                goto NewKeyWord;
+                            }
+                            else
+                            {
+                                break;
+                                goto endgame;
+                            }
+                        }
+                        else
+                        {
+                            break;
+                            goto endgame;
+                        }
                     }
 
                 }
-            } while (c.Key != ConsoleKey.Escape);
 
-
-
-
+            endgame:
+                Console.Clear();
+                Console.WriteLine("Kết thúc game");
+                Console.WriteLine("Số điểm của bạn là: {0}",score);
+                Console.WriteLine("Speed của bạn là: {0}", speed);
+                Console.ReadKey();
+            }
         }
-
     }
 }
+
