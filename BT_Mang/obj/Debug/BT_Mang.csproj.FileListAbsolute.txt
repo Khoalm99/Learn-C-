@@ -1,0 +1,8 @@
+E:\UEH\Co so lap trinh C#\CodeC#\BT_Mang\bin\Debug\BT_Mang.exe.config
+E:\UEH\Co so lap trinh C#\CodeC#\BT_Mang\bin\Debug\BT_Mang.exe
+E:\UEH\Co so lap trinh C#\CodeC#\BT_Mang\bin\Debug\BT_Mang.pdb
+E:\UEH\Co so lap trinh C#\CodeC#\BT_Mang\obj\Debug\BT_Mang.csproj.AssemblyReference.cache
+E:\UEH\Co so lap trinh C#\CodeC#\BT_Mang\obj\Debug\BT_Mang.csproj.SuggestedBindingRedirects.cache
+E:\UEH\Co so lap trinh C#\CodeC#\BT_Mang\obj\Debug\BT_Mang.csproj.CoreCompileInputs.cache
+E:\UEH\Co so lap trinh C#\CodeC#\BT_Mang\obj\Debug\BT_Mang.exe
+E:\UEH\Co so lap trinh C#\CodeC#\BT_Mang\obj\Debug\BT_Mang.pdb
